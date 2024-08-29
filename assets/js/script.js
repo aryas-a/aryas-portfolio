@@ -1,4 +1,4 @@
-import emailjs from '@emailjs/browser';
+
 $(document).ready(function () {
 
     
